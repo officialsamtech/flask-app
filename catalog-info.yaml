@@ -1,13 +1,13 @@
 apiVersion:  backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Flask App Deployment
+  name: python-sample-app
   description: This is a sample Python app deployment.
   tags:
     - python
-    - web framework
+    - web
     - flask
 spec:
-  type: service
+  type: website
   lifecycle: experimental
   owner: kosli
