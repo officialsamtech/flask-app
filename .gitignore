@@ -7,3 +7,4 @@ env
 venv
 *.sublime*
 .DS_Store
+catalog-info.yaml
