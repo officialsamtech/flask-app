@@ -10,4 +10,4 @@ metadata:
 spec:
   type: website
   lifecycle: experimental
-  owner: koslog-web
+  owner: group:koslog-web
